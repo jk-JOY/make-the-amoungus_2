@@ -22,9 +22,8 @@ public class CreateRoomUI : MonoBehaviour
         //StartHost 함수 호출  == startHOST는 서버를 엶과 동시에
         //클라이언트로써 게임에 참가하게 만드는 함수
         var manager = ForUsRoomManager.singleton;
+
         //방 설정 작업 처리
-        //
-        //
         manager.StartHost();
     }
 }
