@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Game_MainMenu_2/MainMenuScenes.unity
+- path: Assets/Photon/PhotonVoice/Demos/DemoVoicePun/DemoVoicePun-Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
